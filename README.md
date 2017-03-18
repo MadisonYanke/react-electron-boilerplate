@@ -1,7 +1,7 @@
 # React Electron Boilerplate
 Boilerplate for Electron and React
 
-###Instructions
+### Instructions
 To begin install dependencies
 ```sh
 npm install
